@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JacksonBomb/JacksonBomb.iml" filepath="$PROJECT_DIR$/JacksonBomb/JacksonBomb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vuln-jackson-idea/vuln-jackson-idea.iml" filepath="$PROJECT_DIR$/vuln-jackson-idea/vuln-jackson-idea.iml" />
+    </modules>
+  </component>
+</project>
